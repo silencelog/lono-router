@@ -12,8 +12,8 @@
   "dependencies": {
     "@koa/multer": "^3.0.0",
     "@koa/router": "^9.0.1",
-    "@lono/require": "^0.0.1",
-    "lodash": "^4.17.15",
+    "@lono/require": "^0.0.3",
+    "lodash": "^4.17.19",
     "multer": "^1.4.2"
   },
   "devDependencies": {
