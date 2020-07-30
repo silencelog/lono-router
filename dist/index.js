@@ -15,7 +15,7 @@ var _multer = _interopRequireDefault(require("@koa/multer"));
 
 var _path = _interopRequireDefault(require("path"));
 
-var _require = _interopRequireDefault(require("@lode/require"));
+var _require = _interopRequireDefault(require("@lono/require"));
 
 var _lodash = _interopRequireDefault(require("lodash"));
 
