@@ -1,6 +1,6 @@
 {
   "name": "@lono/router",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "@lono/router",
   "scripts": {
     "build": "babel lib -d dist",
